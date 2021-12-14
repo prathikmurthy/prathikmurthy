@@ -1,7 +1,9 @@
-## 📚 Hi, I'm Prathik! :) (he/him) 📚 
+<h1 align="center"> < 📚 Hi, I'm Prathik! :) (he/him) 📚 /> </h1> 
+  
+<h3 align="center">< Software engineer experienced in web and mobile development /></h3>
 
-- 💻 I'm a Product Data Technology intern for [Steelcase](https://www.steelcase.com/) 
-- 〽️ I'm studying cs @ umich
+* 💻 Currently working as a Product Data Technology intern for [Steelcase](https://www.steelcase.com/) 
+* 〽️ Studying Computer Science @ the University of Michigan
 
 If you want to get in touch:
 
