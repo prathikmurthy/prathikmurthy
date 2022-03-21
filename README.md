@@ -8,6 +8,7 @@
 If you want to get in touch:
 
 - 📧 murthypr@umich.edu
+- 📁 [Portfolio](https://prathikm.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/prathik-murthy-a82b5b67/)
 
 <!---
