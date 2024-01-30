@@ -2,7 +2,6 @@
   
 <h3 align="center">< Software engineer experienced in web and mobile development /></h3>
 
-* 💻 Currently working as a Software Engineering intern for [Procter and Gamble](https://www.us.pg.com/) 
 * 〽️ Studying Computer Science @ the University of Michigan
 
 If you want to get in touch:
