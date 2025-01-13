@@ -2,7 +2,8 @@
   
 <h3 align="center">< Software engineer experienced in web and mobile development /></h3>
 
-* 〽️ Studying Computer Science @ the University of Michigan
+* 💼 Full Stack Software Engineer @ Procter & Gamble
+* 〽️ University of Michigan Alumni (2024) | B.S. in Computer Science
 
 If you want to get in touch:
 
