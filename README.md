@@ -1,13 +1,11 @@
-<h1 align="center"> < 📚 Hi, I'm Prathik! :) (he/him) 📚 /> </h1> 
+<h1 align="center"> < 📚 Hi, I'm Prathik! (he/him) 📚 /> </h1> 
   
-<h3 align="center">< Software engineer experienced in web and mobile development /></h3>
-
 * 💼 Full Stack Software Engineer @ Procter & Gamble
 * 〽️ University of Michigan Alumni (2024) | B.S. in Computer Science
 
 If you want to get in touch:
 
-- 📧 murthypr@umich.edu
+- 📧 murthy.pr@outlook.com
 - 📁 [Portfolio](https://prathikm.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/prathik-murthy-a82b5b67/)
 
